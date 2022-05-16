@@ -86,6 +86,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 10.0.0 - 2022-05-16 =
+
+#### Various
+
+- Hello. ([1](https://github.com/alexflorisca/woocommerce-blocks/pull/1))
+
+
 = 7.6.0 - 2022-05-09 =
 
 #### Enhancements
