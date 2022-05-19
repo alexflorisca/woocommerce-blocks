@@ -86,6 +86,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 13.0.1 - 2022-05-19 =
+
+#### Various
+
+- Add suggested changelog entry here. ([33](https://github.com/alexflorisca/woocommerce-blocks/pull/33))
+
+
 = 13.0.0 - 2022-05-19 =
 
 > Changelog Error: There are no pull requests associated with the milestone.
