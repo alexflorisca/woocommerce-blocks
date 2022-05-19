@@ -29,6 +29,7 @@ jobs:
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   automations: release
+
             - uses: act10ns/slack@v1
               with:
                   status: ${{ job.status }}
