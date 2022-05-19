@@ -15,6 +15,7 @@ jobs:
               with:
                   status: starting
               if: ${{ always() }}
+
             - name: Checkout code
               uses: actions/checkout@v3
             - name: Create changeset for pull request
@@ -24,7 +25,7 @@ jobs:
                   git commit -m 'Empty commit for release pull request' --allow-empty
                   git push
             - name: Create Release Pull Request
-              uses: opr/automations@add/changelog-entry-to-readme
+              uses: opr/automations@add/testing-instructions-automation
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   automations: release
