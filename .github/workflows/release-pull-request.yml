@@ -24,10 +24,11 @@ jobs:
                   git commit -m 'Empty commit for release pull request' --allow-empty
                   git push
             - name: Create Release Pull Request
-              uses: opr/automations@add/changelog-entry-to-readme
+              uses: opr/automations@add/testing-instructions-automation
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   automations: release
+
             - uses: act10ns/slack@v1
               with:
                   status: ${{ job.status }}
