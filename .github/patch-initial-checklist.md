@@ -11,6 +11,8 @@ The release pull request has been created! This checklist is a guide to follow f
 * [ ] Update compatibility sections (if applicable). __Note:__ Do not change the stable tag or plugin version; this is automated.
 * [ ] Push above changes to the release branch.
 
+
+
 ## Create the Testing Notes
 
 * [ ] Run `npm ci`
