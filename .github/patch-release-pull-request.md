@@ -14,6 +14,7 @@ This is the patch release pull request for WooCommerce Blocks plugin `{{version}
 
 ## Communication
 
+
 ### Prepared Updates
 
 Please leave a comment on this PR with links to the following:
