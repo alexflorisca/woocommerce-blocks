@@ -15,6 +15,7 @@ To make future testing more efficient, we recommend setting up some Blocks in ad
 <details>
 <summary>You can copy and paste the following code into a new page to add all the blocks (click):</summary>
 
+
 ```html
 <!-- wp:woocommerce/featured-product {"editMode":false,"productId":15} -->
 <!-- wp:button {"align":"center"} -->
