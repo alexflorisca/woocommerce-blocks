@@ -86,6 +86,10 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 14.0.0 - 2022-05-20 =
+
+> Changelog Error: There are no pull requests associated with the milestone.
+> You'll need to edit this section manually
 = 13.0.0 - 2022-05-19 =
 
 > Changelog Error: There are no pull requests associated with the milestone.
